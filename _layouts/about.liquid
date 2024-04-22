@@ -64,6 +64,14 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    <!-- Teaching -->
+    {% if page.teaching %}
+      <h2, style="margin-top: 50px;">
+        <a href="{{ '/teaching/' | relative_url }}" style="color: inherit">Teaching Assistant</a>
+      </h2>
+      {% include teaching.liquid %}
+    {% endif %}
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">
