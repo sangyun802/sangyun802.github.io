@@ -20,6 +20,7 @@ teaching: true
 ---
 
 I am a first-year Ph.D. student at [Seoul National University](https://ece.snu.ac.kr/en), specializing in Electrical & Computer Engineering. 
-I am a member of Computer Architecture and Systems Lab (SNU-CompArch) under the guidance of [Prof. Jaewoong Sim](https://jaewoong.org/). 
-My primary research interest lies in computer architectures, especially virtual memory system and IOMMU.
+I am a member of Computer Architecture and Systems Lab (SNU-CompArch) under the guidance of [Prof. Jaewoong Sim](https://jaewoong.org/). <br/> 
 I received my B.S degree from [Seoul National University](https://ece.snu.ac.kr/en) (2024).
+
+My primary research interest lies in computer architectures, especially virtual memory system and IOMMU.
